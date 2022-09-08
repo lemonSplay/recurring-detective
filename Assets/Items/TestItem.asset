@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c15d5a988a8f91d4c99b6313054c462b, type: 3}
+  m_Name: TestItem
+  m_EditorClassIdentifier: 
+  name: Black Key
+  icon: {fileID: -5113899963740867716, guid: 84356da12a8249c499e709f4475f15d8, type: 3}
+  isDefaultItem: 0

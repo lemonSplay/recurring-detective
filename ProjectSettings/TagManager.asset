@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CAR
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tilemap0
+    uniqueID: 3156202931
+    locked: 0
+  - name: Tilemap1
+    uniqueID: 1504737689
+    locked: 0
+  - name: Tilemap2
+    uniqueID: 3619776513
+    locked: 0
+  - name: Tilemap3
+    uniqueID: 187760413
+    locked: 0
+  - name: Tilemap4
+    uniqueID: 2690792075
+    locked: 0
+  - name: Tilemap5
+    uniqueID: 26556223
+    locked: 0
+  - name: 'Player '
+    uniqueID: 168323135
+    locked: 0
+  - name: StreetLights
+    uniqueID: 1635601371
+    locked: 0
+  - name: Rain
+    uniqueID: 1963364361
+    locked: 0
+  - name: TileMap6 Over Player
+    uniqueID: 3177178915
+    locked: 0
+  - name: Smoke
+    uniqueID: 1914319903
+    locked: 0
